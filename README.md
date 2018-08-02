@@ -17,4 +17,3 @@ Add tracking of sale price to track how much made from vehicle sales
 Checking for app updates function
 
 Notifications when okay to sell again based on provided limits
-
