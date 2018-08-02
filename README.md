@@ -9,10 +9,12 @@ VirusTotal results for GTA V PV Sale Tracker v1.0 can be found here: https://www
 ## TODO:
 
 Make "Manage Sold" section look... better.
+
 Add tracking of sale price to track how much made from vehicle sales
 
 
 ## In progress:
 App check for app updates and notifies user
+
 Notifications when okay to sell again based on provided limits
 
