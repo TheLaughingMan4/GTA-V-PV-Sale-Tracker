@@ -4,3 +4,15 @@ GTA V Personal Vehicle Sale Tracker is designed to help you keep track of your v
 I always recommend scanning APK files for viruses, even mine. VirusTotal is a great place to do this.
 
 VirusTotal results for GTA V PV Sale Tracker v1.0 can be found here: https://www.virustotal.com/#/file/05cc0ca4603fa35c91a5b1a6591164bc823f3bc89ec228b4236c0dc920a2c708/detection
+
+
+# TODO:
+
+Make "Manage Sold" section look... better.
+Add tracking of sale price to track how much made from vehicle sales
+
+
+# In progress:
+App check for app updates and notifies user
+Notifications when okay to sell again based on provided limits
+
