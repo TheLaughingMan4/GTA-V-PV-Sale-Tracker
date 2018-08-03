@@ -1,5 +1,7 @@
 # GTA V PV Sale Tracker v1.1
 
+Be sure to check out my website https://thelaughingman4.me! This will be the new location for the GTA V PV Sale Tracker project
+
 GTA V Personal Vehicle Sale Tracker is designed to help you keep track of your vehicle sales in GTA Online. It allows you to set limits on how many you can sell for every two hour and thirty hour period.
 
 If you are using v1.0, I recommend updating to v1.1 so you can easily check for new updates in the app!
